@@ -1,7 +1,7 @@
 var playlist = {artistName: 'songTitle'};
   
 function updatePlaylist(playlist, artistName, songTitle){
-  playlist['artistName'] = 'Phil Ochs';
+  playlist['artistName'] = '';
   return playlist;
 }
 function removeFromPlaylist(playlist, artistName){
