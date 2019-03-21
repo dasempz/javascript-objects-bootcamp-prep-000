@@ -1,7 +1,7 @@
 var playlist = {artistName: '', songTitle: ''};
   
 function updatePlaylist(playlist, artistName, songTitle){
-  playlist['artistName'] = 'Slowdive';
+  playlist['artistName'] = 'songTitle';
   return playlist;
 }
 function removeFromPlaylist(playlist, artistName){
